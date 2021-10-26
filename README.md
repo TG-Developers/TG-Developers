@@ -1,4 +1,4 @@
-![tg_developers_light_logo](https://user-images.githubusercontent.com/93191618/138855960-029cc827-b6b2-45c0-b723-b961fc6cd5c1.png)
+![dev_04](https://user-images.githubusercontent.com/93191618/138899898-634cee1e-9676-4296-9e98-2d407e59c08c.png)
 
 - 👋 Hi, We're @TG-Developers
 - 🌱 Software Comapny 
